@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: url(https://walnet.org/help/bgtextures/paper.gif);
+  font-family: sans-serif;
+}
+.clickable {
+  cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 50px;
+  margin-top: 3px;
+}
